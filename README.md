@@ -1,6 +1,3 @@
-```js
-  Compilation error!
-```
 
 ![prinny-sweat001](https://user-images.githubusercontent.com/73976939/114336519-34f8a780-9b1d-11eb-8284-ffd7e5a5c17d.gif) 
 
