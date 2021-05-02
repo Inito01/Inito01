@@ -13,7 +13,7 @@
 <img align="left" alt="JavaScript" width="26px" src="https://user-images.githubusercontent.com/73976939/116826222-f032c000-ab60-11eb-8c74-d8bba35ebba4.png" />
 <img align="left" alt="Node.js" width="26px" src="https://user-images.githubusercontent.com/73976939/116826491-3a687100-ab62-11eb-9429-51eca6648e47.png" />
 <img align="left" alt="Netbeans" width="26px" src="https://user-images.githubusercontent.com/73976939/116826446-fffed400-ab61-11eb-956c-60c9c5338386.png" />
-<img align="letf" alt="Java" width="26px" src="https://user-images.githubusercontent.com/73976939/116826538-6f74c380-ab62-11eb-99e4-f0556924bfdd.png" />
+<img align="letf" alt="Java" width="26px" src="https://user-images.githubusercontent.com/73976939/116826566-9fbc6200-ab62-11eb-914b-91f6a7380417.png" />
 
 <br/>
 
