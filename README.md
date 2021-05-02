@@ -18,7 +18,7 @@
 <br/>
 
 ### Spotify
-[![Spotify](https:spotifystatus.vercel.app/api/spotify)](https://open.spotify.com/user/22xizb476pv3kes2zyx223hva?si=sIynIvs1SgqFI2XwTgkYBw)
+[<img src="https://spotifystatus.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/22xizb476pv3kes2zyx223hva?si=HWUR8E7TQQedgAosQIv5-w)
 
 ---
 
