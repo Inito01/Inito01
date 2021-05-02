@@ -1,4 +1,4 @@
-|Analista Programador ![duo-UC-800x400](https://user-images.githubusercontent.com/73976939/116825445-69c8af00-ab5d-11eb-9e3f-20b244d2f916.jpg)
+|Analista Programador ![image](https://user-images.githubusercontent.com/73976939/116825445-69c8af00-ab5d-11eb-9e3f-20b244d2f916.jpg = 250x250)
 
 
 
