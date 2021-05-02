@@ -1,15 +1,7 @@
-
 ## Estudiante 👨‍💻
-[<img align="left" alt="Duoc logo" width="150px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logo_DuocUC.svg/1280px-Logo_DuocUC.svg.png" />]
+[<img align="left" alt="Duoc logo" width="150px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logo_DuocUC.svg/1280px-Logo_DuocUC.svg.png"/>]
 
 - 🍙Me mantengo aprendiendo 
-
-
-### Spotify 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/22xizb476pv3kes2zyx223hva?si=zL_xV1LQT7q1cB2fz3AzTQ)
-
-
 <br />
 
 ### Lenguajes y Herramientas:
@@ -29,4 +21,6 @@
 <br />
 
 ---
+
+
 
