@@ -2,7 +2,6 @@
 <img align="left" alt="Duoc logo" width="150px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logo_DuocUC.svg/1280px-Logo_DuocUC.svg.png"/>
 <br/>
 <br/>
----
 
 ### Lenguajes y Herramientas:
 
@@ -17,8 +16,6 @@
 
 <br/>
 
-### Spotify
-[<img src="https://spotifystatus.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/22xizb476pv3kes2zyx223hva?si=HWUR8E7TQQedgAosQIv5-w)
 
 ---
 
