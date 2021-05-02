@@ -2,6 +2,7 @@
 <img align="left" alt="Duoc logo" width="150px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logo_DuocUC.svg/1280px-Logo_DuocUC.svg.png"/>
 <br/>
 <br/>
+--Analista Programador 
 
 ### Lenguajes y Herramientas:
 
