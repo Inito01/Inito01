@@ -16,6 +16,5 @@
 
 <br/>
 
-[![Spotify](https://Inito01.vercel.app/api/spotify)](https://open.spotify.com/user/22xizb476pv3kes2zyx223hva?si=-n8u7yIvTk2hHGdujg0xUQ)
 ---
 
