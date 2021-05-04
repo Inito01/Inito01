@@ -14,8 +14,8 @@
 <img align="left" alt="Node.js" width="26px" src="https://user-images.githubusercontent.com/73976939/116826491-3a687100-ab62-11eb-9429-51eca6648e47.png" />
 <img align="left" alt="Netbeans" width="26px" src="https://user-images.githubusercontent.com/73976939/116826446-fffed400-ab61-11eb-956c-60c9c5338386.png" />
 <img align="letf" alt="Java" width="26px" src="https://user-images.githubusercontent.com/73976939/116826566-9fbc6200-ab62-11eb-914b-91f6a7380417.png" />
-<img align="letf" alt="Mysql" width="26px" src="https://user-images.githubusercontent.com/73976939/117074856-ebf1d880-ad01-11eb-9814-6c46d1bbf91e.png" />
-<img align="letf" alt="sqlDEV" width="29px" src="https://user-images.githubusercontent.com/73976939/117075324-9cf87300-ad02-11eb-9c6f-4484e08e9663.png" />
+<img align="center" alt="Mysql" width="26px" src="https://user-images.githubusercontent.com/73976939/117074856-ebf1d880-ad01-11eb-9814-6c46d1bbf91e.png" />
+
 
 <br/>
 
