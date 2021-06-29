@@ -15,7 +15,7 @@
 <img align="left" alt="Netbeans" width="26px" src="https://user-images.githubusercontent.com/73976939/116826446-fffed400-ab61-11eb-956c-60c9c5338386.png" />
 <img align="letf" alt="Java" width="26px" src="https://user-images.githubusercontent.com/73976939/116826566-9fbc6200-ab62-11eb-914b-91f6a7380417.png" />
 <img align="center" alt="Mysql" width="26px" src="https://user-images.githubusercontent.com/73976939/117074856-ebf1d880-ad01-11eb-9814-6c46d1bbf91e.png" />
-<img align="letf" alt="python" width="26px" src="https://user-images.githubusercontent.com/73976939/123878608-63607480-d90d-11eb-9382-3b51a439296e.png" />
+<img align="center" alt="python" width="26px" src="https://user-images.githubusercontent.com/73976939/123878608-63607480-d90d-11eb-9382-3b51a439296e.png" />
 
 
 <br/>
