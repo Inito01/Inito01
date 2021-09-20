@@ -16,6 +16,7 @@
 <img align="letf" alt="Java" width="26px" src="https://user-images.githubusercontent.com/73976939/116826566-9fbc6200-ab62-11eb-914b-91f6a7380417.png" />
 <img align="left" alt="Mysql" width="26px" src="https://user-images.githubusercontent.com/73976939/117074856-ebf1d880-ad01-11eb-9814-6c46d1bbf91e.png" />
 <img align="left" alt="ionic" width="26px" src="https://iconape.com/wp-content/files/cn/371185/svg/371185.svg" />
+<img align="left" alt="Angular" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" />
 
 
 
