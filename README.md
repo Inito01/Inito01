@@ -1,6 +1,4 @@
 ## Estudiante 👨‍💻
-[<img align="left" alt="Duoc logo" width="150px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logo_DuocUC.svg/1280px-Logo_DuocUC.svg.png"/>](https://www.duoc.cl/admision/?gclid=CjwKCAjwm7mEBhBsEiwA_of-TIM0oLUbYSF7RnkguchpOZk9c-jS_eten_aXs3_noKRpQrdye_z4SRoC654QAvD_BwE)
-<br/>
 <br/>
 - Analista Programador 💻
 
