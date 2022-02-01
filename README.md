@@ -1,6 +1,6 @@
-## Estudiante 👨‍💻
+## Practicante 👨‍💻
 <br/>
-- Analista Programador 💻
+- Analista Programador / Web Developer 💻
 
 ### Lenguajes y Herramientas:
 
