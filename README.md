@@ -1,4 +1,4 @@
-## Practicante 👨‍💻
+
 <br/>
 - Analista Programador / Web Developer 💻
 
